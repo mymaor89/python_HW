@@ -1,5 +1,3 @@
-#Maor Yatskan 301791380
-#Anna Rogozin 323686477
 from functools import reduce
 import json
 
