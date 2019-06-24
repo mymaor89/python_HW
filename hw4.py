@@ -1,5 +1,4 @@
-"""Anna Rogozin 323686477
-   Maor Yatzkan 301791380"""
+
 
 from math import sqrt
 
